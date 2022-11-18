@@ -1,4 +1,4 @@
-package Chains_demos.ThreadDemos;
+package ThreadDemos;
 
 import java.util.ArrayList;
 import java.util.List;
